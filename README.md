@@ -13,13 +13,13 @@
 
 - 📫 How to reach me **supratiksarkaremped@gmail.com**
 
-PROJECTS
+PROJECTS<br/>
 [Path finder](https://supratiksarkaremp22.github.io/pathfinding.io/)
 
 [Salary Analysis](https://github.com/supratiksarkaremp22/EmployeeSalariesCity)
 
 [Twitter sentiment analysis on share market](https://github.com/supratiksarkaremp22/Stock-Market-Prediction/blob/main/rnn.py)
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
