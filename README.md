@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **cloud services technologies and big data tools**
 
 - 👯 I’m looking to collaborate on Product Management 
-- 🤝 I’m looking for help with landing my first job in Product Management with work permit sponsorship 
+- 🤝 I’m looking for help with landing my first job in Product Management with work permit sponsorship. 
 
 - 👨‍💻 All of my projects are available at [https://supratiksarkaremp22.github.io/Supratik-Sarkar-Product-Manager.io/](https://supratiksarkaremp22.github.io/Supratik-Sarkar-Product-Manager.io/)
 
