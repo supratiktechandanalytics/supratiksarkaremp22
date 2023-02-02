@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>
-<h3 align="center">A product manager that uses data insights to measure metrics.</h3>
+<h3 align="center">A product manager that uses data insights to fine tune product success.</h3>
 
 - 🔭 I’m currently working on Data Science and Frontend Engineering 
 - 🌱 I’m currently learning **cloud services technologies and big data tools**
