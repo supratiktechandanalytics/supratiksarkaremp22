@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Data Science. 
 - 🌱 I’m currently learning **cloud services technologies and big data tools**
 
-- 🤝 I’m looking for help with landing my first job in Product Management and Data Analyst with work permit sponsorship. 
+- 🤝 I’m looking for help with landing my first job in Data Engineering or Product Management. 
 
 - 👨‍💻 All of my projects are available at [https://supratiksarkaremp22.github.io/Supratik-Sarkar-Product-Manager.io/](https://supratiksarkaremp22.github.io/Supratik-Sarkar-Product-Manager.io/)
 
