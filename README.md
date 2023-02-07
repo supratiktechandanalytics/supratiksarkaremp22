@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>
-<h3 align="center">A product manager that uses data insights to fine tune product success.</h3>
+<h3 align="center">A data science professional that uses data insights to fine tune product success.</h3>
 
 - 🔭 I’m currently working on Data Science. 
+
 - 🌱 I’m currently learning **cloud services technologies and big data tools**
 
 - 🤝 I’m looking for help with landing my first job in Data Engineering or Product Management. 
 
-- 👨‍💻 All of my projects are available at [https://supratiksarkaremp22.github.io/Supratik-Sarkar-Product-Manager.io/](https://supratiksarkaremp22.github.io/Supratik-Sarkar-Product-Manager.io/)
-
-- 💬 Ask me about **Product and Program Management**
+- 💬 Ask me about **Data Engineering, Data Analytics and Business Intelligence Engineering**
 
 - 📫 How to reach me **supratiksarkaremped@gmail.com**
 
