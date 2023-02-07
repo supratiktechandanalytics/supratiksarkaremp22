@@ -13,7 +13,7 @@
 - 📫 How to reach me **supratiksarkaremped@gmail.com**
 
 PROJECTS<br/>
-[Path finder](https://supratiksarkaremp22.github.io/pathfinding.io/)
+[Rolling Tweets Average SQL](https://github.com/supratiksarkaremp22/Rolling-average-of-Tweets)
 
 [Salary Analysis](https://github.com/supratiksarkaremp22/EmployeeSalariesCity)
 
