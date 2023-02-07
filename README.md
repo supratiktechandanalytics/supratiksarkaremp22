@@ -13,11 +13,15 @@
 - 📫 How to reach me **supratiksarkaremped@gmail.com**
 
 PROJECTS<br/>
+[Kafka Stock Market](https://github.com/supratiksarkaremp22/Rolling-average-of-Tweets)
+
 [Rolling Tweets Average SQL](https://github.com/supratiksarkaremp22/Rolling-average-of-Tweets)
 
 [Salary Analysis](https://github.com/supratiksarkaremp22/EmployeeSalariesCity)
 
 [Twitter sentiment analysis on share market](https://github.com/supratiksarkaremp22/Stock-Market-Prediction/blob/main/rnn.py)
+
+[Berlin Crime Stat Dashboard](https://github.com/supratiksarkaremp22/Berlin-Crime-Stats)
 
 <p align="left">
 </p>
