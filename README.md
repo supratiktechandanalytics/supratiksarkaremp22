@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>
-<h3 align="center">A data science professional that uses data insights to fine tune product success.</h3>
+<h3 align="center">I tell product stories with data.</h3>
 
 - 🔭 I’m currently working on Data Science. 
 
