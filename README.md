@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **cloud services technologies and big data tools**
 
-- 🤝 I’m looking for help with landing my first job in Data Engineering or Business Intelligence Engineer or Data Analyst. 
+- 🤝 I’m looking for help with landing my first job in Data Analytics as Product Manager or Data Engineer or Data Analyst. 
 
-- 💬 Ask me about **Data Engineering, Data Analytics and Business Intelligence Engineering**
+- 💬 Ask me about **Product Management, Data Engineering, Data Analytics and Business Intelligence Engineering**
 
 - 📫 How to reach me **supratiksarkaremped@gmail.com**
 
