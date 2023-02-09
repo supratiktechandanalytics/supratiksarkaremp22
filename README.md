@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Product Management, Data Engineering, Data Analytics and Business Intelligence Engineering**
 
-- 📫 How to reach me **supratiksarkaremped@gmail.com**
+- 📫 How to reach me </br>Email: **supratiksarkaremped@gmail.com**
 
 PROJECTS<br/>
 [Kafka Stock Market](https://github.com/supratiksarkaremp22/Rolling-average-of-Tweets)
