@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>
 <h3 align="center">I tell product stories with data.</h3>
 
-- 🔭 I’m currently working on Data Science. 
+- 🔭 I’m currently working on Data Science and Product Engineering. 
 
 - 🌱 I’m currently learning **cloud services technologies and big data tools**
 
