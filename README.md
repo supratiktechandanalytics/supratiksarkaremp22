@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>
 <h3 align="center">I tell product stories with data.</h3>
 
-- 🔭 I’m currently working on Data Science. 
+- 🔭 I’m currently working on emd tp emd Data Engineering. 
 
-- 🌱 I’m currently learning **cloud services technologies and big data tools**
+- 🌱 I’m currently learning **Product Management**
 
-- 🤝 I’m looking for help with landing my first job in Data Analytics as Data Engineer or Data Analyst. 
+- 🤝 I’m looking for help with landing my first job as Product Manager or Data Enginee. 
 
-- 💬 Ask me about **Data Engineering, Data Analytics and Business Intelligence Engineering**
+- 💬 Ask me about **Product Management and Data Engineering**
 
 - 📫 How to reach me </br>Email: **supratiksarkaremped@gmail.com**
 
