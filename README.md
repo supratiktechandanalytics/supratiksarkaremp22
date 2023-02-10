@@ -12,6 +12,7 @@
 - 📫 How to reach me </br>Email: **supratiksarkaremped@gmail.com**
 
 PROJECTS<br/>
+[Hashtag Cashdog](https://github.com/supratiksarkaremp22/HashtagCatdog) 
 [Kafka Stock Market](https://github.com/supratiksarkaremp22/Rolling-average-of-Tweets)
 
 [Year on year growth rate SQL project](https://github.com/supratiksarkaremp22/Y-on-Y-Growth-Rate/blob/main/Solution.sql)
@@ -19,8 +20,6 @@ PROJECTS<br/>
 [Salary Analysis](https://github.com/supratiksarkaremp22/EmployeeSalariesCity)
 
 [Twitter sentiment analysis on share market](https://github.com/supratiksarkaremp22/Stock-Market-Prediction/blob/main/rnn.py)
-
-[Berlin Crime Stat Dashboard](https://github.com/supratiksarkaremp22/Berlin-Crime-Stats)
 
 <p align="left">
 </p>
