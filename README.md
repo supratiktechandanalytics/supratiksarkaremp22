@@ -12,7 +12,11 @@
 - 📫 How to reach me </br>Email: **supratiksarkaremped@gmail.com**
 
 PROJECTS<br/>
+[Path finder](https://supratiksarkaremp22.github.io/pathfinding.io/)
+
 [Hashtag Cashdog](https://github.com/supratiksarkaremp22/HashtagCatdog) 
+
+[Sorting Visualizer](https://supratiksarkaremp22.github.io/sortvisual.io/)
 
 [Kafka Stock Market](https://github.com/supratiksarkaremp22/Rolling-average-of-Tweets)
 
