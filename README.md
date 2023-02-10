@@ -18,7 +18,7 @@ PROJECTS<br/>
 
 [Sorting Visualizer](https://supratiksarkaremp22.github.io/sortvisual.io/)
 
-[Kafka Stock Market](https://github.com/supratiksarkaremp22/Rolling-average-of-Tweets)
+[Kafka Stock Market](https://github.com/supratiksarkaremp22/Kafka_stock_data_engineering)
 
 [Year on year growth rate SQL project](https://github.com/supratiksarkaremp22/Y-on-Y-Growth-Rate/blob/main/Solution.sql)
 
