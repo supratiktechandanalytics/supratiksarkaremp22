@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Product Management**
 
-- 🤝 I’m looking for help with landing my first job as Product Manager or Data Enginee. 
+- 🤝 I’m looking for help with landing my first job as Product Manager or Data Engineering. 
 
 - 💬 Ask me about **Product Management and Data Engineering**
 
