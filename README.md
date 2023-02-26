@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>
-<h3 align="center">I tell product stories with data.</h3>
+<h3 align="center">Voluntary experience of launching products.</h3>
 
 - 🔭 I’m currently working on end to end Data Engineering projects. 
 
