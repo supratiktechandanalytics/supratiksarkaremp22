@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>
-<h3 align="center">Voluntary experience of launching products.</h3>
+<h3 align="center">I tell product stories using data.</h3>
 
 - 🔭 I’m currently building end to end Data Engineering projects. 
 
 - 🌱 I’m currently learning **Product Management**
 
-- 🤝 I’m looking for help with landing my first job in Product Management. 
+- 🤝 I’m looking for help with landing my first job in Product Management or Data Science. 
 
-- 💬 Ask me about **Product Management**
+- 💬 Ask me about **Product Managemen/Data Analyst/Data Engineering**
 
 - 📫 How to reach me </br>Email: **supratiksarkaremped@gmail.com**
 
