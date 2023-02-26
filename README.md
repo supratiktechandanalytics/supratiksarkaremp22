@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>
-<h3 align="center">I tell product stories using data.</h3>
+<h3 align="center">I tell stories with data insights. </h3>
 
 - 🔭 I’m currently building end to end Data Engineering projects. 
 
-- 🌱 I’m currently learning **Product Management**
+- 🌱 I’m currently learning **Cloud Technology, ETL design and product launch.**
 
-- 🤝 I’m looking for help with landing my first job in Product Management or Data Science. 
+- 🤝 I’m looking for help with landing my first job in Data Science. 
 
 - 💬 Ask me about **Product Managemen/Data Analyst/Data Engineering**
 
