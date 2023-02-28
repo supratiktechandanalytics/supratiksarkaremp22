@@ -12,17 +12,20 @@
 - 📫 How to reach me </br>Email: **supratiksarkaremped@gmail.com**
 
 PROJECTS<br/>
+
+[Banking Fraud Detection using Spark](https://github.com/supratiksarkaremp22/Banking_Fraud_PySpark)
+
+[Hashtag Cashdog](https://github.com/supratiksarkaremp22/HashtagCatdog)
+
 [Path finder](https://supratiksarkaremp22.github.io/pathfinding.io/)
-
-[Hashtag Cashdog](https://github.com/supratiksarkaremp22/HashtagCatdog) 
-
-[Sorting Visualizer](https://supratiksarkaremp22.github.io/sortvisual.io/)
 
 [Kafka Stock Market](https://github.com/supratiksarkaremp22/Kafka_stock_data_engineering)
 
-[Year on year growth rate SQL project](https://github.com/supratiksarkaremp22/Y-on-Y-Growth-Rate/blob/main/Solution.sql)
-
 [Salary Analysis](https://github.com/supratiksarkaremp22/EmployeeSalariesCity)
+
+[Sorting Visualizer](https://supratiksarkaremp22.github.io/sortvisual.io/)
+
+[Year on year growth rate SQL project](https://github.com/supratiksarkaremp22/Y-on-Y-Growth-Rate/blob/main/Solution.sql)
 
 [Twitter sentiment analysis on share market](https://github.com/supratiksarkaremp22/Stock-Market-Prediction/blob/main/rnn.py)
 
