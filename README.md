@@ -13,6 +13,8 @@
 
 PROJECTS<br/>
 
+[Rental Realestate Database](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Data%20Cleaning%20Portfolio%20Project%20Queries.sql)
+
 [Banking Fraud Detection using Spark](https://github.com/supratiksarkaremp22/Banking_Fraud_PySpark)
 
 [Hashtag Cashdog](https://github.com/supratiksarkaremp22/HashtagCatdog)
@@ -24,8 +26,6 @@ PROJECTS<br/>
 [Salary Analysis](https://github.com/supratiksarkaremp22/EmployeeSalariesCity)
 
 [Sorting Visualizer](https://supratiksarkaremp22.github.io/sortvisual.io/)
-
-[Year on year growth rate SQL project](https://github.com/supratiksarkaremp22/Y-on-Y-Growth-Rate/blob/main/Solution.sql)
 
 [Twitter sentiment analysis on share market](https://github.com/supratiksarkaremp22/Stock-Market-Prediction/blob/main/rnn.py)
 
