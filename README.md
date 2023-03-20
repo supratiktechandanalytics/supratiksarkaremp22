@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Product Managemen/Data Analyst/Data Engineering**
 
-- 📫 How to reach me </br>Email: **supratiksarkaremped@gmail.com**
+- 📫 How to reach me </br>Email: **supratikssarkar@gmail.com**
 
 PROJECTS<br/>
 
