@@ -13,7 +13,7 @@
 
 PROJECTS<br/>
 
-[Rental Realestate Database](https://github.com/supratiksarkaremp22/Real-Estate-Rental-Database/blob/main/rentalrealestate.sql))
+[Rental Realestate Database](https://github.com/supratiksarkaremp22/Real-Estate-Rental-Database/blob/main/rentalrealestate.sql)
 
 [Banking Fraud Detection using Spark](https://github.com/supratiksarkaremp22/Banking_Fraud_PySpark)
 
