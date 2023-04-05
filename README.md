@@ -13,21 +13,26 @@
 
 PROJECTS<br/>
 
+**Data Analytics and Engineering Projects**
+
 [Rental Realestate Database](https://github.com/supratiksarkaremp22/Real-Estate-Rental-Database/blob/main/rentalrealestate.sql)
 
 [Banking Fraud Detection using Spark](https://github.com/supratiksarkaremp22/Banking_Fraud_PySpark)
 
 [Hashtag Cashdog](https://github.com/supratiksarkaremp22/HashtagCatdog)
 
-[Path finder](https://supratiksarkaremp22.github.io/pathfinding.io/)
-
 [Kafka Stock Market](https://github.com/supratiksarkaremp22/Kafka_stock_data_engineering)
 
 [Salary Analysis](https://github.com/supratiksarkaremp22/EmployeeSalariesCity)
 
+[Twitter sentiment analysis on share market](https://github.com/supratiksarkaremp22/Stock-Market-Prediction/blob/main/rnn.py)
+
+**Frontend Engineering Projects**
+
 [Sorting Visualizer](https://supratiksarkaremp22.github.io/sortvisual.io/)
 
-[Twitter sentiment analysis on share market](https://github.com/supratiksarkaremp22/Stock-Market-Prediction/blob/main/rnn.py)
+[Path finder](https://supratiksarkaremp22.github.io/pathfinding.io/)
+
 
 <p align="left">
 </p>
