@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently building webapps and end to end Data Engineering projects. 
 
-- 🌱 I’m currently learning **Angular, Cloud Technology, ETL design and product launch.**
+- 🌱 I’m currently learning **Angular, Salesforce and Cloud Technology.**
 
 - 🤝 I’m looking for help with landing my first job in Product Management, Frontend development or Data Science. 
 
-- 💬 Ask me about **Product Managemen, React, Data Analyst, Data Engineering.**
+- 💬 Ask me about **Product Management, React, Data Analytics and Data Engineering.**
 
 - 📫 How to reach me </br>Email: **supratikssarkar@gmail.com**
 
