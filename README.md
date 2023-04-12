@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with landing my first job in Product Management, Frontend development or Data Science. 
 
-- 💬 Ask me about **Product Managemen, React, Data Analyst, Data Engineering**
+- 💬 Ask me about **Product Managemen, React, Data Analyst, Data Engineering.**
 
 - 📫 How to reach me </br>Email: **supratikssarkar@gmail.com**
 
