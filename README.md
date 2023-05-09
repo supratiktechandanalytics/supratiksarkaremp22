@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently utilizing data insights to launch products to success. 
 
-- 🌱 I’m currently learning **Big data and Devops.**
+- 🌱 I’m currently learning **Big data and Devops technologies.**
 
 - 🤝 I’m looking for help with landing my first job in Product Management | Data Analytics. 
 
