@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>
-<h3 align="center">Deploying data driven webapps</h3>
+<h3 align="center">Utilizing Data Analyhtics for product success</h3>
 
 - 🔭 I’m currently building webapps and end to end Data Engineering projects. 
 
