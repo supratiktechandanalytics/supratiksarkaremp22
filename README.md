@@ -27,7 +27,7 @@ PROJECTS<br/>
 
 [Twitter sentiment analysis on share market](https://github.com/supratiksarkaremp22/Stock-Market-Prediction/blob/main/rnn.py)
 
-**Frontend Engineering Projects**</br>
+**Software Engineering Projects**</br>
 
 [Portfolio Website](https://supratiksarkaremp22.github.io/supratikstechportfolio/)
 
