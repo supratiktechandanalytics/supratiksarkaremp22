@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>
-<h3 align="center">Utilizing Data Analyhtics for product success</h3>
+<h3 align="center">Product Management | Data Analytics</h3>
 
-- 🔭 I’m currently building webapps and end to end Data Engineering projects. 
+- 🔭 I’m currently utilizing data insights to launch products to success. 
 
-- 🌱 I’m currently learning **Angular, Salesforce and Cloud Technology.**
+- 🌱 I’m currently learning **Big data and Devops.**
 
-- 🤝 I’m looking for help with landing my first job in Product Management, Frontend development or Data Science. 
+- 🤝 I’m looking for help with landing my first job in Product Management | Data Analytics. 
 
 - 💬 Ask me about **Product Management, React, Data Analytics and Data Engineering.**
 
