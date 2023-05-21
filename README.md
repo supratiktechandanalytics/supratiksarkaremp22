@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Big data and Devops technologies.**
 
-- 🤝 I’m looking for help with landing my first job in Product Management | Data Analytics. 
-
 - 💬 Ask me about **Product Management, React, Data Analytics and Data Engineering.**
 
 - 📫 How to reach me </br>Email: **supratikssarkar@gmail.com**
