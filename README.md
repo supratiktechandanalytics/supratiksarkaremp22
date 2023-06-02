@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>
-<h3 align="center">Data Engineering</h3>
 
 - 🔭 I’m currently utilizing data insights for launching products to success. 
 
