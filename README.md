@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Supratik Sarkar</h1>
 <h3 align="center">Data Engineering</h3>
 
-- 🔭 I’m currently utilizing data insights to launch products to success. 
+- 🔭 I’m currently utilizing data insights for launching products to success. 
 
 - 💬 Ask me about **Product Management, React, Data Analytics and Data Engineering.**
 
