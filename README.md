@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently utilizing data insights to launch products to success. 
 
-- 🌱 I’m currently learning **Big data and Devops technologies.**
-
 - 💬 Ask me about **Product Management, React, Data Analytics and Data Engineering.**
 
 - 📫 How to reach me </br>Email: **supratikssarkar@gmail.com**
